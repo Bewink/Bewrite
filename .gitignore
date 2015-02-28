@@ -8,7 +8,7 @@
 
 # Excluded folders
 out/*
-vendor/*
+vendor
 !vendor/befew
 
 # Cache
